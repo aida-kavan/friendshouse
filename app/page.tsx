@@ -80,7 +80,7 @@ export default function Home() {
           className="pt-10 "
         />
       </div>
-      <div className="flex flex-col items-center max-w-4xl px-6 text-center text-sm leading-relaxed ">
+      <div className="flex flex-col items-center text-black max-w-4xl px-6 text-center text-sm leading-relaxed ">
         <ScrollReveal
           baseOpacity={0}
           enableBlur={true}

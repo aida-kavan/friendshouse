@@ -31,7 +31,7 @@ const Header = () => {
           href="/profile"
           className="text-blue-950 text-xl hover:bg-white/30 transition-all duration-300 p-2 rounded-2xl"
         >
-          ثبت سفارش
+          درباره ما
         </Link>
       </button>
     </div>
