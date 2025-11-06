@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.79 21.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        font-family: 'MSM_Ayda', MSM;
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(46.68 13.19)"><tspan x="0" y="0">خانه ی دوست کجاست؟</tspan></text>
+    <line class="cls-1" x1="44.77" y1="12.34" y2="12.34"/>
+    <line class="cls-1" x1="173.79" y1="12.34" x2="129.02" y2="12.34"/>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 638 398">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Doran-Regular, Doran;
+        font-size: 62.07px;
+      }
+
+      .cls-4 {
+        fill: #fcee21;
+        font-family: FarKetab, Far.Ketab;
+        font-size: 44.68px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #081a66;
+      }
+
+      .cls-5 {
+        fill: #9b000f;
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="0" y="0" width="638" height="398" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="1"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path class="cls-5" d="M569.5,75.46c-11.81,8.42-24.44,20.38-22.54,35.62s13.57,28.19,27.71,34.16c14.14,5.98,30.33,5.69,45.22,1.92-24.04,1.24-45.95,20.54-50.21,44.23s9.53,49.42,31.62,58.97c-22.49-6.71-48.86,3.08-61.53,22.84-12.67,19.76-10.55,47.81,4.94,65.45-14.64-20.73-43.26-30.37-67.46-22.72-24.2,7.66-42.07,32.01-42.12,57.39-6.41-29.37-36.16-51.75-66.15-49.76s-56.53,28.11-58.99,58.07c7-29.12-18.19-60.14-47.98-63.22-29.79-3.08-58.98,18.37-69.28,46.49,3.62-31.83-19.4-64.53-50.59-71.85s-66.36,11.73-77.27,41.86c9.25-13.27,18.61-26.75,23.91-42.03,5.3-15.28,6.09-32.87-1.56-47.12-13.57-25.28-52.12-33.23-75.16-33.94,23.04.71,42.49,2.87,56.74-12.13,14.25-15,19.42-37.17,16.59-57.67-2.83-20.5-12.93-39.43-25.72-55.7,23.63,16.01,55.63,18.78,81.66,7.09,26.03-11.7,45.2-37.47,48.92-65.76-6.42,22.33,6.48,47.62,27.02,58.48,20.54,10.86,46.57,8.39,66.7-3.21,20.13-11.6,29.68-39.14,38.6-60.59,6.62,30.42,43.65,60.85,74.53,56.93,30.88-3.92,48.98-30.42,55.01-64.89-3.06,27.38,7.31,59.71,31.77,75.21,24.46,15.5,62.55,3.36,85.64-14.12Z"/>
+    <text class="cls-3" transform="translate(115.48 174.39)"><tspan x="0" y="0">کارت پستال فروشی</tspan><tspan x="51.24" y="65">خانه ی دوست</tspan></text>
+    <text class="cls-1" transform="translate(114.59 176.39)"><tspan x="0" y="0">کارت پستال فروشی</tspan><tspan x="51.24" y="65">خانه ی دوست</tspan></text>
+    <text class="cls-2" transform="translate(113.87 177.39)"><tspan x="0" y="0">کارت پستال فروشی</tspan><tspan x="51.24" y="65">خانه ی دوست</tspan></text>
+    <text class="cls-4" transform="translate(240.14 295.19)"><tspan x="0" y="0">تقدیم میکند....</tspan></text>
+  </g>
+</svg>

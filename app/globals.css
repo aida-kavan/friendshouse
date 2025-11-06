@@ -1,8 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #f8f6f3;
   --foreground: #171717;
+    --gray: #5f6566;
+    --blue: #001666;
+    --green: #073f10;
 }
 
 @theme inline {
@@ -14,13 +17,26 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #f8f6f3;
     --foreground: #ededed;
   }
 }
+@font-face {
+  font-family: main;
+  src: url(../public/fonts/Azar\ [@fontbazi].ttf);
+}
+@font-face {
+  font-family: sub;
+  src: url(../public/fonts/A\ Ketab\ Bold.ttf);
+}
 
 body {
-  background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:main;
+  background-color: #fefae0;
+background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png");
+
+}
+p{
+  font-family: sub;
 }
