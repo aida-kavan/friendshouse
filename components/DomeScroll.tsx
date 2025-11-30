@@ -91,6 +91,46 @@ const DEFAULT_IMAGES: ImageItem[] = [
     src: "/images/image-29.jpg",
     alt: "Social media image",
   },
+  {
+    src: "/images/کارت پستال های مدرسه-32.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-33.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-34.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-35.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-36.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-37.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-43.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-44.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-35.jpg",
+    alt: "Social media image",
+  },
+  {
+    src: "/images/کارت پستال های مدرسه-46.jpg",
+    alt: "Social media image",
+  },
 ];
 
 const DEFAULTS = {
