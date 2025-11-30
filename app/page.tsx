@@ -9,7 +9,7 @@ const images = [
   "https://s6.uupload.ir/files/کارت_پستال_های_مدرسه-35_dv3g.jpg",
   "https://s6.uupload.ir/files/کارت_پستال_های_مدرسه-29_rml.jpg",
   "https://s6.uupload.ir/files/کارت_پستال_های_مدرسه-15_8i2p.jpg",
-  "https://s6.uupload.ir/files/کارت_پستال_های_مدرسه-08_7a46.jpg",from Bio.Seq import Seq
+  "https://s6.uupload.ir/files/کارت_پستال_های_مدرسه-08_7a46.jpg",
 ];
 
 const transformStyles = [
